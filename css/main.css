@@ -12,8 +12,11 @@ body {
   color: #FFF;
   background: #fc6015;
   margin: 0;
-  align-content: center;
 }
 footer {
   text-align: center;
+}
+
+#logo {
+  margin: auto;
 }
