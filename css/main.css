@@ -12,9 +12,18 @@ body {
   color: #FFF;
   background: #fc6015;
   margin: 0;
+  align-items: center;
 }
-footer {
+p {
+  font-size: 1.5em;
   text-align: center;
+}
+img {
+  padding: 1rem;
+  max-width: 100%;
+}
+section {
+  max-width: 600px;
 }
 
 #logo {
