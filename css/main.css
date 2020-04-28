@@ -59,7 +59,3 @@ footer:focus, footer:hover, footer:action {
 #logo {
   margin: 1.5em;
 }
-#nav {
-  display: flex;
-  flex-direction: row;
-}

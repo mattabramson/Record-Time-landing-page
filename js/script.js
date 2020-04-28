@@ -9,8 +9,6 @@ const woo = document.querySelector('#wooIcon');
 const drum = document.querySelector('#drumIcon');
 const stop = document.querySelector('#drumStop');
 
-
-
 drum.onclick = () => {
   document.getElementById(('drum')).play();
 };
